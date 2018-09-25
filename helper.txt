@@ -1,0 +1,15 @@
+your options:
+
+1. animation
+recommended with: grid size = 50, initial predators = 50, initial preys = 50
+
+
+2. plot
+recommmended with: grid size = 50, initial predators = 50, initial preys = 50
+
+
+3. both
+recommended with: grid size = 30, initial predators = 30, initial preys = 30 (because it will be too slow with higher numbers)
+
+
+Try them not just once! Because the system only rarely reaches its equilibrium (when they don't die out early)! But it's worth trying it more times until it does reach equilibrium.
