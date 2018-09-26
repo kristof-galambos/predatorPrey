@@ -1,4 +1,6 @@
-
+"""
+runs the simulation and outputs the two populations on an animated matplotlib graph
+"""
 
 from universe import Universe
 

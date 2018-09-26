@@ -1,4 +1,7 @@
-
+"""
+generates a gui, from where you can choose the type of output and set the initial numbers of animals
+nice but sometimes has problems with different screen sizes
+"""
 
 from universe import Universe
 

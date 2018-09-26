@@ -1,4 +1,6 @@
-
+"""
+runs the simulation and outputs a very cool pygame animation showing the movement of the animals
+"""
 
 from universe import Universe
 

@@ -1,4 +1,6 @@
-
+"""
+implementation of the universe, which is everything living insde the predator  prey model
+"""
 
 from cell import Cell
 from animals import Predator, Prey

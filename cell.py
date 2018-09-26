@@ -1,4 +1,6 @@
-
+"""
+these cells keep track of which position are occupied and which are unoccupied by animals
+"""
 
 
 class Cell():

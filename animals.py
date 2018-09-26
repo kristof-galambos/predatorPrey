@@ -1,4 +1,6 @@
-
+"""
+implementation of animals, which move on cells and are contained within the universe
+"""
 
 import numpy.random as npr
 

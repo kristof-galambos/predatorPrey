@@ -1,4 +1,7 @@
-
+"""
+I don't remember how this was supposed to work but it clearly doesn't work
+also it wouldn't make much sense to run 3 simulations simultaneously
+"""
 
 import multiprocessing
 

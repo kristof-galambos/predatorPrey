@@ -1,4 +1,7 @@
-
+"""
+runs the simulation and outputs both the animated matplotlib plots of the populations and the movements of the animals
+but it's running really slowly, because matplotlib can't animate that many rectangles so fast
+"""
 
 from universe import Universe
 

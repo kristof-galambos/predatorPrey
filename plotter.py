@@ -1,4 +1,7 @@
-
+"""
+runs the simulation and in the end outputs one matplotlib figure plotting the population sizes
+not very exciting output, but this is the fastest way to run the simulation
+"""
 
 from universe import Universe
 
