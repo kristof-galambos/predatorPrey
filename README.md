@@ -8,15 +8,5 @@ There are 2 different types of output: 1. plot of the population sizes of predat
 There is a separate launcher file for all different kinds of output. Input parameters are mostly hardcoded into these launcher files.
 
 List of files:
-
-Implementation:
-universe.py
-animals.py
-cell.py
-
-Launchers:
-animator.py
-animated_plotter.py
-double_animator.py
-plotter.py
-gui.py
+Implementation: universe.py, animals.py, cell.py
+Launchers:animator.py, animated_plotter.py, double_animator.py, plotter.py, gui.py
