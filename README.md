@@ -11,4 +11,4 @@ List of files:
 
 Implementation: universe.py, animals.py, cell.py
 
-Launchers:animator.py, animated_plotter.py, double_animator.py, plotter.py, gui.py
+Launchers: animator.py, animated_plotter.py, double_animator.py, plotter.py, gui.py
